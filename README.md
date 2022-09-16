@@ -1,3 +1,7 @@
+In this project, it will ask you three questions, what size pizza you want, do you want pepperoni, do you want extra cheese?
+With these inputs, it will calculate how much you have to pay with multiple if statements. 
+
+
 ## Pizza Order
 
 # UPDATE
